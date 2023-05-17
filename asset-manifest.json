@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/test_for_hubmee/static/css/main.d76925f2.css",
+    "main.js": "/test_for_hubmee/static/js/main.2512435b.js",
+    "index.html": "/test_for_hubmee/index.html",
+    "main.d76925f2.css.map": "/test_for_hubmee/static/css/main.d76925f2.css.map",
+    "main.2512435b.js.map": "/test_for_hubmee/static/js/main.2512435b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d76925f2.css",
+    "static/js/main.2512435b.js"
+  ]
+}
